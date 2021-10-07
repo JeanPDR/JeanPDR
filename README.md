@@ -38,3 +38,7 @@ My Social Mídia
  <a href="https://www.linkedin.com/in/jean-pereira-dos-reis-30934b183/"> <img  align "center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   </div>
+  
+  <div>
+ ![Snake animation](https://github.com/JeanPDR/JeanPDR/blob/output/github-contribution-grid-snake.svg)
+</div>
