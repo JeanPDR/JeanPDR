@@ -30,11 +30,7 @@
   <a href="https://www.linkedin.com/in/jean-pereira-dos-reis-30934b183/" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
 </div>
 
-<div align = "center">
-  
-  ! [Animação de cobra] (https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
 
 <div align = "center">
   <p> Feito com: ❤️ e JavaScript. </p>
