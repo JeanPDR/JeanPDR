@@ -26,7 +26,6 @@
 </div> <br>
 
 <div align = "center">
-  <a href="https://www.instagram.com/https://www.instagram.com/ph_jeeh/" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style = for-the-badge & logo = instagram & logoColor = white "target =" _ blank "> </a>
   <a href="https://www.linkedin.com/in/jean-pereira-dos-reis-30934b183/" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
 </div>
 
