@@ -4,7 +4,7 @@
   <p align = "center"> Estudo Desenvolvimento Web na <a href="https://www.digitalhouse.com/br"> Digital House </a>  </p>
 
 
-<p align = "center"> Tambem sou Desenvolvedor Front End, com conhecimentos em HTML, CSS, Javascript e React, a menos de um ano e estou à procura de novas oportunidades no mercado de trabalho, não só para conhecer um novo ambiente de trabalho, mas para ampliar meus conhecimentos e networking.</p>
+<p align = "center"> Tambem sou Desenvolvedor Front End, com conhecimentos em HTML, CSS, Javascript, ReactJS e outras tecnlogias, a menos de um ano e estou à procura de novas oportunidades no mercado de trabalho, não só para conhecer um novo ambiente de trabalho, mas para ampliar meus conhecimentos e networking.</p>
 
 <div align = "center">
   <a href="https://github.com/JeanPDR">
