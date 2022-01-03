@@ -30,7 +30,11 @@
 </div>
 
 
-
+<div  align = "center">
+    <p> Da uma Olhadinha no meu site 😁✌️</p>
+    https://jeanpdr.github.io/meuPortifolio/ 
+  </div>
+  
   
 
 <div align = "center">
