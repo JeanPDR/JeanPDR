@@ -29,10 +29,8 @@
   <a href="https://www.linkedin.com/in/jean-pereira-dos-reis-30934b183/" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
 </div>
 
-  <div  align = "center">
-    <p> Da uma Olhadinha no meu site 😁✌️</p>
-    https://jeanpdr.github.io/Meu_Curriculo/ 
-  </div>
+
+
   
 
 <div align = "center">
