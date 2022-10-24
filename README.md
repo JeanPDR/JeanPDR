@@ -34,6 +34,10 @@
     <p> Da uma Olhadinha no meu site 😁✌️</p>
     https://jeanpdr.github.io/meu-curriculo/ 
   </div>
+
+<div align = center">
+![Snake animation](https://github.com/JeanPDR/JeanPDR/blob/output/github-contribution-grid-snake.svg)
+</div>
   
   
 
