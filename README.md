@@ -27,8 +27,8 @@
 
 
 <div  align = "center">
-    <p> Da uma Olhadinha no meu site 😁✌️</p>
-    https://jeanpdr.github.io/meu-curriculo/ 
+    <p> Da uma olhadinha nas minhas <a href="https://jeanpdr.github.io/meu-curriculo/"> skills </a> 😁✌️</p>
+    
   </div>
 
 <div align = "center">
