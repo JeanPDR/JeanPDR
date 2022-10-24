@@ -6,11 +6,7 @@
 
 <p align = "center"> Tambem sou Desenvolvedor Front End, com conhecimentos em HTML, CSS, Javascript, ReactJS e outras tecnlogias, a menos de um ano e estou à procura de novas oportunidades no mercado de trabalho, não só para conhecer um novo ambiente de trabalho, mas para ampliar meus conhecimentos e networking.</p>
 
-<div align = "center">
-  <a href="https://github.com/JeanPDR">
-    <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=jeanpdr&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner" /
-    <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact" />
-  </a>
+
   
 </div>
 <div align = "center" valign = "top"> <br>
@@ -35,6 +31,11 @@
     https://jeanpdr.github.io/meu-curriculo/ 
   </div>
 
+<div align = "center">
+  <a href="https://github.com/JeanPDR">
+    <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=jeanpdr&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner" /
+    <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact" />
+  </a>
 
 ![Snake animation](https://github.com/JeanPDR/JeanPDR/blob/output/github-contribution-grid-snake.svg)
 
