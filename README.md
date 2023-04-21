@@ -1,7 +1,7 @@
 
 <div>
   <h1 align = "center"> Olá Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jean-pereira-dos-reis-30934b183/"> Jean Reis </a> 😃️ </h1>
-  <p align = "center">Formado Desenvolvimento Web pela <a href="https://www.digitalhouse.com/br"> Digital House </a>  </p>
+  <p align = "center">Formado em Desenvolvimento Web pela <a href="https://www.digitalhouse.com/br"> Digital House </a>  </p>
 
 
 <p align = "center"> Tambem sou Desenvolvedor Front End, com conhecimentos em HTML, CSS, Javascript, ReactJS e outras tecnlogias, a menos de um ano e estou à procura de novas oportunidades no mercado de trabalho, não só para conhecer um novo ambiente de trabalho, mas para ampliar meus conhecimentos e networking.</p>
