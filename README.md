@@ -1,6 +1,6 @@
 
 <div>
-  <h1 align = "center"> Olá Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jean-pereira-dos-reis-30934b183/"> Jean Reis </a> 😃️ </h1>
+  <h1 align = "center"> Olá Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jean-reis-30934b183/"> Jean Reis </a> 😃️ </h1>
   <p align = "center">Formado em Desenvolvimento Web pela <a href="https://www.digitalhouse.com/br"> Digital House </a>  </p>
 
 
