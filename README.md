@@ -37,12 +37,11 @@
     <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact" />
   </a>
 
-<img src="https://raw.githubusercontent.com/JeanPDR/JeanPDR/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/JeanPDR/JeanPDR/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align = "center">
   <p> Feito com: ❤️ e JavaScript. </p>
-  <p> Créditos:  <a href="https://github.com/rafaballerini"> Rafaella Ballerini </a> </p>
 </div>
   
 
