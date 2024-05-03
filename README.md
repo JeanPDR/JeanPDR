@@ -4,20 +4,25 @@
   <p align = "center">Formado em Desenvolvimento Web pela <a href="https://www.digitalhouse.com/br"> Digital House </a>  </p>
 
 
-<p align = "center"> Tambem sou Desenvolvedor Front End, com conhecimentos em HTML, CSS, Javascript, ReactJS e outras tecnlogias, a um ano e estou à procura de novas oportunidades no mercado de trabalho, não só para conhecer um novo ambiente de trabalho, mas para ampliar meus conhecimentos e networking.</p>
+<p align = "center"> Sou desenvolvedor Front End, atuando em projetos pessoais e freelancers com HTML, CSS, Javascript, typescipt, ReactJS e NextJS, entre outras tecnologias. Estou atualmente em busca de novas oportunidades profissionais, não apenas para explorar um ambiente de trabalho diferente, mas também para expandir meu conhecimento e criar uma rede de contatos mais ampla.</p>
 
 
   
 </div>
+<h2 align = "center"> Tecnologias utilizadas em meus projetos pesssoais e freelancers 👨‍💻</h2>
 <div align = "center" valign = "top"> <br>
-  <img align = "center" alt = "React" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg ">
-  <img align = "center" alt = "Redux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg ">
-  <img align = "center" alt = "Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align = "center" alt = "Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg ">
   <img align = "center" alt = "HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align = "center" alt = "CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-  <img align = "center" alt = "nodejs" height = "30" width = "40" src = "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align = "center" alt = "Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
+  <img align = "center" alt = "Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg ">
+  <img align = "center" alt = "nodejs" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align = "center" alt = "React" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg ">
+  <img align = "center" alt = "Redux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg ">
+  <img align = "center" alt = "nextjs" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg ">
+  <img align = "center" alt = "tailwindcss" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg ">
   <img align = "center" alt = "git" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg ">
+  <img align = "center" alt = "mysql" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg ">
+  <img align = "center" alt = "mongodb" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg ">
   
 </div> <br>
 
@@ -33,13 +38,14 @@
 
 <div align = "center">
   <a href="https://github.com/JeanPDR">
-    <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=jeanpdr&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner" /
-    <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact" />
+     <img src="https://github-readme-stats.vercel.app/api?username=jeanpdr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeanpdr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   </a>
 
-![Snake animation](https://github.com/jeanpdr/jeanpdr/blob/output/github-contribution-grid-snake.svg)
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 
+<img src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp"/>
+
+###
 
 <div align = "center">
   <p> Feito com: ❤️ e JavaScript. </p>
