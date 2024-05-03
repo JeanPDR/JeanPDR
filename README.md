@@ -37,10 +37,8 @@
     <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact" />
   </a>
 
-![Snake animation](https://github.com/JeanPDR/JeanPDR/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/jeanpdr/jeanpdr/output/snake.svg" alt="Snake animation" />
 
-  
-  
 
 <div align = "center">
   <p> Feito com: ❤️ e JavaScript. </p>
