@@ -47,10 +47,12 @@
 
 ###
 
-<div align = "center">
-  <p> Feito com: ❤️ e JavaScript. </p>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeanpdr/jeanpdr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeanpdr/jeanpdr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jeanpdr/jeanpdr/output/pacman-contribution-graph.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/jeanpdr/jeanpdr/output/snake.svg" alt="Snake animation" />
+###
 
 ###
