@@ -1,41 +1,65 @@
 
 <div>
-  <h1 align = "center"> Olá Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jean-reis-30934b183/"> Jean Reis </a> 😃️ </h1>
-  <p align = "center">Formado em Desenvolvimento Web pela <a href="https://www.digitalhouse.com/br"> Digital House </a>  </p>
+  <h1 align = "center"> Olá Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jeanpreis/"> Jean Reis </a> 😃️ </h1>
+  <p align = "center">Formado em Desenvolvimento Web pela <a href="https://www.digitalhouse.com/br"> Digital House </a> e cursando Analise e Desenvolvimento de Sistemas pela <a href="https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas"> Faculdade Descomplicada </a></p>
 
 
-<p align = "center"> Sou desenvolvedor Front End, atuando em projetos pessoais e freelancers com HTML, CSS, Javascript, typescipt, ReactJS e NextJS, entre outras tecnologias. Estou atualmente em busca de novas oportunidades profissionais, não apenas para explorar um ambiente de trabalho diferente, mas também para expandir meu conhecimento e criar uma rede de contatos mais ampla.</p>
+<p align="center">
+  Sou desenvolvedor Full Stack, com experiência em projetos pessoais e como freelancer, utilizando tecnologias como 
+  HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS no front-end e Node.js, Express no back-end, entre outras.  
+  Atualmente, estou em busca de novas oportunidades profissionais que me permitam atuar em ambientes desafiadores, 
+  ampliar meus conhecimentos e construir uma rede de contatos sólida e colaborativa. No momento, estou aprofundando meus estudos em <strong>Java e Spring</strong> através da trilha de formação da 
+  <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, com foco em desenvolvimento back-end robusto e escalável.
 
+</p>
+
+ 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  
+</div>
+
+###
 
   
 </div>
-<h2 align = "center"> Tecnologias utilizadas em meus projetos pesssoais e freelancers 👨‍💻</h2>
-<div align = "center" valign = "top"> <br>
-  <img align = "center" alt = "HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align = "center" alt = "CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-  <img align = "center" alt = "Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align = "center" alt = "Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align = "center" alt = "nodejs" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align = "center" alt = "React" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align = "center" alt = "Redux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align = "center" alt = "nextjs" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align = "center" alt = "tailwindcss" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align = "center" alt = "git" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align = "center" alt = "mysql" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align = "center" alt = "mongodb" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  
-</div> <br>
-
-<div align = "center">
-  <a href="https://www.linkedin.com/in/jean-pereira-dos-reis-30934b183/" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
+<h2 align = "center"> Tecnologias utilizadas em meu dia-a-dia projetos pesssoais e freelancers 👨‍💻</h2>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" alt="less logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-
-<div  align = "center">
-    <p> Da uma olhadinha nas minhas <a href="https://jeanpdr.github.io/meu-curriculo/"> skills </a> 😁✌️</p>
-    
-  </div>
-
+<br>
 <div align = "center">
   <a href="https://github.com/JeanPDR">
      <img src="https://github-readme-stats.vercel.app/api?username=jeanpdr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
